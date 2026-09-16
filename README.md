@@ -1,2 +1,1 @@
-# JARVIS
-it is a jarvis project wehch can do tasks
+JARVIS is an intelligent personal AI desktop assistant that understands natural-language and voice commands, searches the internet, and can perform computer tasks. It uses AI planning and a dual-AI verification system to check actions before execution, observe results, and correct errors when necessary.
